@@ -1,5 +1,5 @@
 {
-  "name": "fca-unofficial",
+  "name": "fca-cyber",
   "version": "1.3.10",
   "description": "A Facebook chat API that doesn't rely on XMPP. Will NOT be deprecated after April 30th 2015.",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fca-unofficial/fca-unofficial.git"
+    "url": "git://github.com/islamickcyberchat/fca-cyber.git"
   },
   "keywords": [
     "facebook",
@@ -18,9 +18,9 @@
     "fca"
   ],
   "bugs": {
-    "url": "https://github.com/fca-unofficial/fca-unofficial/issues"
+    "url": "https://github.com/islamickcyberchat/fca-cyber/issues"
   },
-  "author": "Avery, David, Maude, Benjamin, UIRI",
+  "author": "Islamick Cyber Chat",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.11.0",
